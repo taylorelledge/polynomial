@@ -1,0 +1,22 @@
+Please make a selection. Input the corresponding menu number.
+When inputting polynomials be sure to follow this input format
+5x3 + 1x2 + 4x + 3
+There must be spaces between all operators and and a leading coefficient for all terms.
+1)Input and print polynomial.
+2)Find difference of two polynomials.
+3)Find scalar product of a polynomial.
+4)Evaluate polynomial given an integer.
+5)Find first three derivatives
+0)Exit Program
+Please input polynomial.
+Please input polynomial.
+Please make a selection. Input the corresponding menu number.
+When inputting polynomials be sure to follow this input format
+5x3 + 1x2 + 4x + 3
+There must be spaces between all operators and and a leading coefficient for all terms.
+1)Input and print polynomial.
+2)Find difference of two polynomials.
+3)Find scalar product of a polynomial.
+4)Evaluate polynomial given an integer.
+5)Find first three derivatives
+0)Exit Program

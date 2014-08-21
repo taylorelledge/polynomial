@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=pw
+comment0.target=Polynomial(java.io.PrintWriter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ polynomial\r\n
+comment1.params=
+comment1.target=void\ getInfo()
+comment1.text=\r\n\ getInfo()\ -\ method\ takes\ user\ input\ for\ polynomial\ and\ processes\ it\ accordingly\ into\ a\ linked\ list.\r\n\ \r\n\ @param\ -\ none\r\n\ @return\ -\ none\r\n
+comment2.params=
+comment2.target=void\ scalarMult()
+comment2.text=\r\n\ scalarMult()\ -\ multiplies\ the\ input\ polynomial\ by\ a\ scalar.\r\n\ \r\n\ @param\ -\ none\r\n\ @return\ -\ none\r\n
+comment3.params=
+comment3.target=void\ printPoly()
+comment3.text=\r\n\ printPoly()\ -\ a\ uniform\ print\ method\ for\ the\ class\ variables\ that\ outputs\ the\ polynomial\ with\ all\ of\ it's\r\n\ terms\ and\ operators\ in\ the\ proper\ position.\r\n\ \r\n\ @param\ -\ none\r\n\ @return\ -\ none\r\n
+comment4.params=
+comment4.target=void\ evaluatePoly()
+comment4.text=\r\n\ evaluatePoly()\ -\ processes\ the\ linked\ list\ given\ an\ integer\ provided\ by\ the\ user\ and\ finds\ the\ final\ value\r\n\ of\ the\ polynomial.\r\n\ \r\n\ @param\ -\ none\r\n\ @return\ -\ none\r\n
+comment5.params=
+comment5.target=void\ differenceOfPolynomials()
+comment5.text=\r\n\ differenceOfPolynomials()\ -\ finds\ the\ difference\ of\ two\ polynomials\ that\ are\ provided\ by\ the\ user.\r\n\ \r\n\ @param\ -\ none\r\n\ @\ return\ -\ none\r\n
+comment6.params=
+comment6.target=void\ derivative()
+comment6.text=\r\n\ derivative()\ -\ calculates\ the\ first\ three\ derivatives\ of\ class\ variable\ listOne.\r\n\ \r\n\ @param\ -\ none\r\n\ @return\ -\ none\r\n
+numComments=7
